@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou Filipe!
 
-💻 Desenvolvedor de sistemas em múltiplas linguagens, com foco no aprendizado e aquisição de experiência.
-🎓 Formado no Curso Técnico em Desenvolvimento de Sistemas - SENAI-MG.
-🌱 Atualmente cursando Sistemas de Informação no Centro Universitário de Itajubá - FEPI.
+💻 Desenvolvedor de sistemas em múltiplas linguagens, com foco no aprendizado e aquisição de experiência. <br>
+🎓 Formado no Curso Técnico em Desenvolvimento de Sistemas - SENAI-MG. <br>
+🌱 Atualmente cursando Sistemas de Informação no Centro Universitário de Itajubá - FEPI. <br>
 🛠️ Estagiando na empresa AMTK Soluções em Energia Ltda.
 
 
