@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+<!--### 📊 Estatísticas do GitHub
 <div align="center">
 
 ![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipecoura776&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
@@ -37,7 +37,7 @@
 
 </div>
 
----
+----->
 
 ### 📫 Contato
 <a href="mailto:filipefcoura888@gmail.com" target="_blank">
